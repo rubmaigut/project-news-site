@@ -20,3 +20,6 @@ The site is composed by:
 - A group composed by other new with less relevance.
 - A generic footer.
 
+## Live Project
+You can check this project here:
+https://mr-games-news.netlify.app/
