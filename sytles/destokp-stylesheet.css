@@ -12,19 +12,19 @@
         align-items: center;
     }
     header{
-        height: 350px;
+        height: 170px;
     }
     .title{
-        margin-top: 35px;
-        font-size: 25px;
+        margin-top: 30px;
+        font-size: 20px;
     }
     .tittle2{
-        font-size: 25px;
+        font-size: 18px;
       
     }
     .nav-bar-destokp{
         width: 94%;
-        height: 70px;
+        height: 40px;
         padding-left: 3%;
         display: flex;
         flex-direction: row;
@@ -34,7 +34,7 @@
     .nav-bar-destokp a{
         width: 24%;
         height: 75%;
-        font-size: 30px;
+        font-size: 25px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -52,28 +52,26 @@
     }
 
     .container{
-        max-width: 1366px;
-        height: 500px !important;
-     }
+        width: 70% !important;
+    }
 
     .news{
         width: 24%;
-        height: 750px;
+        height: 550px;
     }   
 
     .news article{
-        font-size: 30px;
+        font-size: 25px;
     
     }
-
    .slide-img span{
-    font-size: 45px;
+    font-size: 25px;
     text-align: center;
     }
    
     span a{
         color: white;
-        font-size: 30px;
+        font-size: 20px;
         font-weight: bold;
     }
     p a{
@@ -82,11 +80,11 @@
     }
 
     p{
-        font-size: 35px !important;
+        font-size: 20px
     }
      
     footer{
-        font-size: 30px;
+        font-size: 20px;
         justify-content: center;
                
     }

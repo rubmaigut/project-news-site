@@ -1,7 +1,7 @@
 # Week-2
 # Project-News-Site
 
-This project was made to afiance knowledge from previous clases related to HTML tags and CSS tachnickes. Also was a good practice to adquere self issues solution and learn how to do some reseach on inernet
+This project was made to affiance knowledge from previous clases related to HTML tags and CSS techniques. 
 
 ## Thematic
 The site is focused only on gaming news.
